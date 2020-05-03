@@ -1,6 +1,5 @@
 # Our Bootleg apps
 PRODUCT_PACKAGES += \
-    Email \
     Etar \
     QPGallery \
     MiXplorerPrebuilt \
