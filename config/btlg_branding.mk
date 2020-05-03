@@ -3,7 +3,7 @@ PRODUCT_BRAND ?= Bootleggers
 # Versioning System
 # Bootleggers version over here.
 PRODUCT_VERSION_MAJOR = WithYou
-PRODUCT_VERSION_MINOR = niceparse.Is There_Still_Anything_That_Love_Can_Do
+PRODUCT_VERSION_MINOR = niceparse.Is_There_Still_Anything_That_Love_Can_Do
 BOOTLEGGERS_VERSION_NUMBER := 5.1-Senpaii
 BOOTLEGGERS_SONGCODEURL = https://cutt.ly/mydZfLx
 BOOTLEGGERS_EPOCH := $(shell date +%s)
